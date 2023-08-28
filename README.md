@@ -1,2 +1,8 @@
 # cura-healthcare-service
-Automation testing with selenium python
+Automation Testing with Selenium Python
+=======================================
+
+PRA-STEP
+1. Build vitrual environment
+2. install selenium
+3. install webdriver-menager
